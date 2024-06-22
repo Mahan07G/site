@@ -1,0 +1,60 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: Arial, Helvetica, sans-serif;
+  
+}
+
+.navbar-brand{
+  font-size: 2rem;
+  font-weight: 600;
+
+
+}
+
+.nav-link{
+  font-size: 1.3rem;
+  margin-left: 12px;
+  margin-right: 12px;
+}
+
+.search{
+  height: 40px;
+  width: 300px;
+  border-radius: 60px;
+  outline: none;
+  margin-right: -35px;
+  
+
+}
+
+.sbtn{
+  height: 40px;
+  width: 40%;
+  outline: none;
+  border: none;
+  border-radius: 60px;
+  background-color: rgb(255, 255, 255);
+}
+
+#home{
+  padding-top: 50px;
+  background-size: 100% 100%;
+background-position: 0px 0px;
+background-image: linear-gradient(90deg, rgb(184, 248, 248) 0%, rgb(143, 208, 254) 100%);
+  
+  
+
+}
+
+.item{
+  padding-top: 40px;
+}
+.trending{
+  padding-top: 60px;
+}
+
+.footer p{
+  margin: 0;
+}
